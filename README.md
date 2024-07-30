@@ -1,6 +1,6 @@
 # Umsl Basketball Analysis
 
-##This analysis uses publicly available game data from umsltritons.com.
+#This analysis uses publicly available game data from umsltritons.com.
 
 Here is the workflow:
 
