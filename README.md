@@ -1,4 +1,4 @@
-# Umsl Basketball Analysis
+# UMSL Basketball Analysis
 
 #### This analysis uses publicly available game data from umsltritons.com
 
