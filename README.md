@@ -1,9 +1,28 @@
 # Umsl Basketball Analysis
 
-#### This analysis uses publicly available game data from umsltritons.com
+#### Overview
+This repository contains a sports analytics project focused on analyzing UMSL men's and women's basketball team performance. The project includes data cleaning, visualization, and insights derived from the data.
 
-Here is the workflow:
+#### Data
+The data used in this project is sourced from pdf files on umsltritons.com. The dataset includes game stats.
 
-1. The PDF file with game stats is saved into the data folder
-2. The raw tables are extracted from the PDF files
-3. The data is then cleaned and turned into usable tables for analysis
+#### Project Structure
+data: Contains the raw and cleaned datasets for the men's and women's teams.
+notebooks: Jupyter notebooks for data exploration and analysis.
+reports: Static images of the visualizations created in the notebooks.
+README.md: This file.
+
+#### Tools and Technologies
+Python 3.x
+Pandas
+Jupyter Notebooks
+
+#### Getting Started
+Clone the repository: git clone https://github.com/malcolmjconnor/umsl-basketball-analysis.git
+Install required libraries: pip install -r requirements.txt
+Explore the notebooks and visualizations
+
+#### Contributing
+Contributions are welcome! If you'd like to contribute, please submit a pull request.
+Contact
+If you have any questions or would like to discuss the project, please contact Malcolm Connor at malcolmjconnor01@gmail.com.
