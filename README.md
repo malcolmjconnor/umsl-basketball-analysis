@@ -1,4 +1,4 @@
-# Umsl Basketball Analysis
+# UMSL Basketball Analysis
 
 #### Overview
 This repository contains a sports analytics project focused on analyzing UMSL men's and women's basketball team performance. The project includes data cleaning, visualization, and insights derived from the data.
