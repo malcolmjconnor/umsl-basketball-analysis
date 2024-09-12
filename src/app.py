@@ -6,7 +6,7 @@ import altair as alt
 # Load the clean CSV file
 df = pd.read_csv("../data/men/clean/23-24/player_stats.csv")
 
-# Create a Streamlit app
+st.image("../images/tritons_logo.png", width=100)  
 st.title("UMSL Basketball Analytics")
 
 # Add filters
