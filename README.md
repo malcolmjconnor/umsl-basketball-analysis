@@ -5,7 +5,10 @@ This repository contains a sports analytics project focused on analyzing UMSL me
 
 
 #### Data
-The data used in this project is sourced from pdf files on https://umsltritons.com/sports/mens-basketball/stats/2023-24#game.
+The data used in this project is sourced from pdf files on 
+https://umsltritons.com/sports/mens-basketball/stats/2023-24
+and
+https://umsltritons.com/sports/mens-basketball/stats/2023-24#game.
 The datasets contain game stats.
 
 
