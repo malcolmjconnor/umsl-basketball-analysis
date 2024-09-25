@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 
-st.image("images/tritons_logo.png", width=100)  
+#st.image("images/tritons_logo.png", width=100)  
 st.title("UMSL Basketball Analytics")
 st.write("2023-2024 Season")
 
