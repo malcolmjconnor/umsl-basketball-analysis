@@ -16,7 +16,7 @@ seasonStats = load_data()
 
 # Sidebar options
 st.sidebar.header('Select Options')
-x_axis = st.sidebar.selectbox('Select X-axis', ['MIN', 'GP'])
+x_axis = st.sidebar.selectbox('Select X-axis', ['Minutes', 'Games Played'])
 # Limit Y-axis options to specific fields
 y_axis_options = ['FG%', '3PT%','FT%','PPG','OREB',
     'DREB', 'REB', 'AVG REB', 'PF', 'A', 'TO', 'STL', 'BLK', 'eFG%', 'TS%', 'A/TO', 'Usage Rate', 'Box +/-']  # Specify only the fields you want
