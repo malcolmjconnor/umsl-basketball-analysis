@@ -20,7 +20,7 @@ st.sidebar.header('Select Options')
 y_axis_options = ['FG%', '3PT%','FT%','PPG','OREB',
     'DREB', 'REB', 'AVG REB', 'PF', 'A', 'TO', 'STL', 'BLK', 'eFG%', 'TS%', 'A/TO', 'Usage Rate', 'Box +/-']  # Specify only the fields you want
 y_axis = st.sidebar.selectbox('Stat', y_axis_options)
-x_axis = st.sidebar.selectbox('Per', ['Minutes', 'Games Played'])
+x_axis = st.sidebar.selectbox('Per', ['Minutes Played', 'Games Played'])
 
 # Create Altair scatter plot
 scatter = alt.Chart(seasonStats).mark_circle(size=60).mark_point().encode(
