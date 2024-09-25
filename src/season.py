@@ -10,7 +10,7 @@ st.write("2023-2024 Season")
 # Load data
 @st.cache_data
 def load_data():
-    return pd.read_csv("../data/men/clean/23-24/seasonStats.csv")
+    return pd.read_csv("data/men/clean/23-24/seasonStats.csv")
 
 seasonStats = load_data()
 
